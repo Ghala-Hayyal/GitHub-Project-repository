@@ -1,2 +1,2 @@
-# GitHub-Project-repository
-Udacity programming for data science  
+# Udacity Programming for Data science nano degree 
+
